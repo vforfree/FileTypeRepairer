@@ -12,9 +12,9 @@
 
 软件下载：
 
-<a href="https://pan.baidu.com/s/1FcMJMib-_QLl7s9I-J0bHA?pwd=2kub">百度网盘</a> 提取码：2kub
+<a href="https://pan.baidu.com/s/1FcMJMib-_QLl7s9I-J0bHA?pwd=2kub">百度网盘(旧的，随后更新)</a> 
 
-<a href="https://drive.google.com/file/d/1oqyjbReoOCRbRk5N-yprMsfXPCHCOwgQ/view?usp=drive_link">google云盘</a> 
+<a href="https://drive.google.com/file/d/1TvSB-VX0sgF_Yd8Wrvahbhv0vZAQlz33/view?usp=drive_link">google云盘</a> 
 
 
 <h3 tabindex="-1" class="heading-element" dir="auto">❤️ 捐助</h3>
