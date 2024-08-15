@@ -7,12 +7,12 @@
 
 支持系统：windows x64(Vista/Win7/Win8/Win8.1/Win10/win11)
 
-文件MD5: 2446C1FC6DE18F042B2D50A2A0B07D07
+文件MD5: 85D1DE150DCD9A8DF3DE58A191E59D3A
 
 
 软件下载：
 
-<a href="https://pan.baidu.com/s/1FcMJMib-_QLl7s9I-J0bHA?pwd=2kub">百度网盘(旧的，随后更新)</a> 
+<a href="https://pan.baidu.com/s/1YfX5Y44202nZw_iNcTMnsg?pwd=cz4l ">百度网盘</a> 
 
 <a href="https://drive.google.com/file/d/1TvSB-VX0sgF_Yd8Wrvahbhv0vZAQlz33/view?usp=drive_link">google云盘</a> 
 
